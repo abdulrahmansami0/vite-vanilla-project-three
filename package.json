@@ -1,0 +1,19 @@
+{
+  "name": "three-js-course",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.2.3"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "lil-gui": "^0.19.1",
+    "three": "^0.159.0"
+  }
+}
